@@ -58,11 +58,11 @@
   <br />
   <div>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Nastine7311">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nastine7311&theme=gruvbox&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="https://git.io/streak-stats"/)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nastine7311&theme=gruvbox&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="https://git.io/streak-stats"/>
     </a>
   </div>
   <div>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastine7311&layout=compact&theme=vision-friendly-dark">
-   <img src="https://github.com/anuraghazra/github-readme-stats"/)
-        </a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastine7311">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
    </div>
