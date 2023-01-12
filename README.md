@@ -65,4 +65,10 @@
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastine7311">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/>
   </a>
-   </div>
+  </div>
+  <p align="right">
+   <a href="https://readme-jokes.vercel.app/api?hideBorder">
+     <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+  </a>
+  </p>
+  
